@@ -1,8 +1,8 @@
-# # This line import the feature argv used to pull argument variables
-# from sys import argv
+# This line import the feature argv used to pull argument variables
+from sys import argv
 
-# # this line pulls those argument variables
-# script, filename = argv
+# this line pulls those argument variables
+script, filename = argv
 
 # the line opens a file with the filename argument
 txt = open(filename)
