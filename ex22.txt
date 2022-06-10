@@ -1,0 +1,27 @@
+print - function to output value/values to to the console
+"" - container for string values
+'' - also a container for string values
+"""""" -  container for multiple lines of strings
+# - symbol that starts a comment
++ - / *  - arithmetic operators
+< > <= >= == - boolean operators
+= - symbol for variable assignment
+"" % - symbol for formated string
+%r - raw value format
+%d - number value format
+%s - string value format
+"" + "" - string concatenation
+"" * - string multipication (concatenation)
+\n - new line character
+\\ - forward slash character
+\t* - bullet point(list item) character
+input - function to prompt a user input
+argv - module to pull argument variables
+import - keyword to all script to access external module
+open - function to open a file using filename and directory with read/write options
+close - function to close an open file
+read - function to return the contents of a file
+write - function to write into a file
+def - keyword used to define a function
++= - operator to increment the value of a variable
+-= - operator to decrement the value of a variable
